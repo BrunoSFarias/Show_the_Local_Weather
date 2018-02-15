@@ -1,0 +1,24 @@
+
+
+.block{
+    background-color:black;
+    opacity:.75;
+    color:#ffffff;
+    text-align: center;
+    padding: 3px 15px 12px 10px;
+    height:65px;
+    width:8%;
+    margin:auto; 
+    border-radius:15px;
+    font-size:1.5em;
+    
+}
+ .fix-text{
+    padding: 10px 15px 12px 10px !important;
+}
+.panel-footer{
+background-color:#000000;
+color:#ffffff;
+opacity:.75;
+border-radius:15px;
+}
